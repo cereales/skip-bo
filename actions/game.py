@@ -14,7 +14,7 @@ class Game(AbstractAction):
 
     @staticmethod
     def command_short():
-        return None
+        return "s"
 
     @staticmethod
     def help_description():
